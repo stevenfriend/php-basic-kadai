@@ -7,10 +7,10 @@
 </head>
 <body>
   <p>
-  <?php
-  $item = ['name' => 'onion', 'price' => 200, 'weight' => '160'];
-  print_r($item);
-  ?>
+    <?php
+    $item = ['name' => 'onion', 'price' => 200, 'weight' => '160'];
+    print_r($item);
+    ?>
   </p>
 </body>
 </html>
